@@ -1,0 +1,28 @@
+name: FNCSERVICES
+favicon: null
+layout_spectrum: 0.29631571914069355
+typography_spectrum: 0.5392392540816218
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.40466388780623674
+  lightness: 0.22378688328899443
+  saturation: 0.9621093198657036
+  rhythmicContrast: 0.6735027376562357
+purpose: []
